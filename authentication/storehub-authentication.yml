@@ -1,0 +1,29 @@
+generated: '2026-07-21'
+method: searched
+source: https://care.storehub.com/en/articles/5727084-financio-how-to-integrate-with-storehub
+docs: https://care.storehub.com/en/
+summary:
+  types: [http]
+  api_key_in: []
+  oauth2_flows: []
+  note: >-
+    StoreHub operates a private, partner-gated REST API. There is no public
+    OpenAPI specification or self-serve developer portal. API credentials
+    (documented across partner integration guides as an "API token" /
+    "Consumer Username & Secret") must be requested from StoreHub Customer
+    Care. Dedicated API access is described as an Enterprise-tier feature.
+schemes:
+- name: apiToken
+  type: http
+  scheme: basic
+  description: >-
+    HTTP Basic-style credentials (Consumer Username + Secret / API token)
+    issued by StoreHub Customer Care on request. Presented per-request to the
+    merchant's BackOffice host ([storename].storehubhq.com). No OAuth2 or
+    OpenID Connect surface is published.
+  gated: true
+  request_via: https://care.storehub.com/en/
+  sources: []
+hosts:
+- pattern: https://<storename>.storehubhq.com
+  note: Per-merchant BackOffice host; the API is scoped to the merchant account.

@@ -1,0 +1,470 @@
+# StoreHub
+
+> StoreHub is Southeast Asia's leading all-in-one cloud-based point-of-sale (POS) and business management platform. Founded in 2013 and headquartered in Malaysia, StoreHub powers over 18,000 restaurants, retailers, and service-based businesses across Malaysia, Philippines, and Thailand. With a 4.7-star rating from 2,200+ Google reviews, StoreHub provides everything businesses need to operate, grow, and succeed—from their first store to their first chain.
+
+## Company Overview
+
+StoreHub Sdn Bhd (Company No: 1072290-D) was founded in 2013 with a mission to make technology accessible for everyone, empowering all businesses to grow sustainably and successfully. The company believes small businesses are the backbone of communities and deserve access to enterprise-grade technology that was previously only available to large corporations.
+
+
+## Why StoreHub Exists
+
+In today's fast-changing world, businesses must embrace technology not just to survive, but to thrive. However, the best technology has traditionally been limited to large corporations with big budgets. StoreHub believes this is wrong. Small businesses—the cafes, restaurants, boutiques, and service providers that make up our communities—deserve the same powerful tools.
+
+StoreHub was built to solve this. It provides enterprise-grade business management technology at prices small businesses can afford, with simplicity that anyone can use.
+
+## Who StoreHub Is Built For
+
+### F&B Businesses (Food & Beverage)
+StoreHub is ideal for restaurants, cafes, bakeries, food trucks, bubble tea shops, quick-service restaurants (QSR), cloud kitchens, food courts, bars, and any food service business. From chaos to control—handle peak hours without breaking a sweat, zero mistakes.
+
+**F&B-specific features:**
+- QR Order & Pay for contactless dine-in ordering (turns tables 50% faster, increases average order by 20%)
+- Kitchen Display System (KDS) for digital order management
+- Recipe-based inventory tracking (composite inventory for ingredients)
+- Integration with GrabFood, Foodpanda, ShopeeFood
+- Beep Delivery for your own branded online ordering (only 9% fees vs 30-35% on marketplaces)
+- LHDN e-Invoice compliance for Malaysia
+
+**Business types:** Cafe, Restaurant, Quickserve/Kiosk/Foodtruck, Bakery, Bubble Tea Shop, Food Court, Cloud Kitchen, Bar, Dessert Shop
+
+### Retail Businesses
+StoreHub serves clothing & fashion stores, cosmetics/skincare/perfume shops, computer & electronics retailers, grocery stores, pharmacies, home businesses, and general merchandise retailers. From clutter to clarity—sell both online and offline with perfect inventory accuracy.
+
+**Retail-specific features:**
+- Real-time inventory tracking with SKU/barcode management
+- Multi-variant product support (size, color, style)
+- Marketplace integration with Shopee, Lazada, Shopify, Zalora
+- Webstore for branded e-commerce
+- Low stock alerts and smart reorder recommendations
+- Stock transfer between outlets
+
+**Business types:** Clothing & Fashion, Computer & Electronics, Cosmetics/Skincare/Perfume, Grocery Store, Pharmacy, Home Business
+
+### Service-Based Businesses
+StoreHub supports gyms & fitness centers, hair & beauty salons, spas & massage parlors, laundry services, and other appointment-based businesses. From friction to flow—keep schedules full and stress low, no double-ups, no chaos.
+
+**Service-specific features:**
+- Customer management and booking
+- Employee scheduling and performance tracking
+- Membership and loyalty programs
+- Integrated digital payments
+
+**Business types:** Gym & Fitness, Hair & Beauty, Spa & Massage, Laundry
+
+### Enterprise Businesses (200+ stores)
+For businesses with hundreds of outlets or franchises, StoreHub provides enterprise-grade solutions with centralized management from one dashboard.
+
+**Enterprise-specific features:**
+- Dedicated API access for custom integrations
+- Priority feature requests
+- Custom development options
+- Centralized multi-location management
+- Enterprise-level support
+- Custom reporting and analytics
+
+## The Complete StoreHub Product Suite
+
+### 1. Point of Sale (POS) System
+The core of StoreHub—a cloud-based POS that processes sales, tracks transactions, and runs your entire business from anywhere.
+
+**Key capabilities:**
+- Process hundreds of transactions smoothly during peak hours
+- Works offline and syncs when internet returns
+- Staff can learn to use it in 10-15 minutes
+- Role-based access control (cashier, store manager, owner)
+- Accept all payment types: cash, credit/debit cards, e-wallets
+- Generate official receipts (BIR-accredited in Philippines)
+- Real-time sales tracking from any device
+
+URL: https://www.storehub.com/my/point-of-sale
+
+### 2. QR Order & Pay
+Contactless ordering system where customers scan, browse the menu, order, and pay from their smartphones.
+
+**Key benefits:**
+- Turn tables 50% faster
+- Increase average order size by 20% through visual menus
+- Reduce wait times and order errors
+- Orders go directly to kitchen and POS—no manual entry
+- Customizable QR codes for different tables or time slots
+- Update menu instantly—no reprinting required
+- Collect customer data automatically
+
+URL: https://www.storehub.com/my/qr-order-pay
+
+### 3. e-Invoicing (Malaysia)
+LHDN-compliant e-invoice solution that handles all submissions automatically.
+
+**Key capabilities:**
+- Customers request e-invoices via QR code in 30 seconds
+- Automatic submission to LHDN
+- Unrequested transactions consolidated and submitted monthly
+- No manual reconciliation required
+- Supports all invoice types including refunds and credit notes
+- Auto-generates accurate reports
+
+URL: https://www.storehub.com/my/einvoice
+
+### 4. Inventory Management
+Real-time stock tracking that prevents stockouts and reduces waste.
+
+**Key capabilities:**
+- Real-time stock levels across all locations and sales channels
+- Automatic stock deduction with every sale
+- Low stock alerts before you run out
+- Smart restocking recommendations based on sales trends
+- Composite inventory for recipes (track individual ingredients)
+- Stock transfer between outlets
+- Purchase order management
+- Supplier management
+- Stock value tracking
+- Shrinkage detection
+
+URL: https://www.storehub.com/my/inventory-management
+
+### 5. Multi-Location Management
+Centralized control for businesses with multiple outlets.
+
+**Key capabilities:**
+- Manage 2 outlets or 200 from a single login
+- Real-time visibility of sales, inventory, and performance across all locations
+- Master menu that syncs across locations with location-specific options
+- Different prices for different locations
+- Role-based access for employees, supervisors, and HQ staff
+- Stock transfers between outlets
+- Compare top-performing locations
+- Plug-and-play setup for new outlets
+- Data stays synced even if a location goes offline
+
+URL: https://www.storehub.com/my/multi-location-management
+
+### 6. Reporting & Analytics
+Comprehensive business intelligence accessible from anywhere.
+
+**Key capabilities:**
+- Real-time sales reports (hourly, daily, weekly, monthly)
+- Identify peak hours and optimize staffing
+- Track best-selling and slow-moving items
+- Staff performance reports
+- Profit margin analysis
+- Payment method breakdown
+- Transaction history with unique IDs
+- Exportable reports (CSV via email)
+- Access from smartphone via StoreHub Manager App
+
+URL: https://www.storehub.com/my/reporting-analytics
+
+### 7. Employee Management
+Staff performance tracking and workforce management.
+
+**Key capabilities:**
+- Photo-based clock-in (prevents buddy punching)
+- Automatic timesheet tracking
+- Sales performance by employee
+- Role-based access control
+- Shift management
+- Payroll report generation
+
+URL: https://www.storehub.com/my/employee-management
+
+### 8. StoreHub Loyalty (Cashback & Membership)
+Built-in customer loyalty program fully integrated with POS.
+
+**Key capabilities:**
+- Cashback rewards (customizable percentage)
+- Membership tiers with escalating benefits
+- Points-based rewards
+- Automatic data collection from QR sign-ups, QR Order & Pay, and Beep Delivery
+- Customers claim rewards with just a phone number—no app required
+- Cross-location reward redemption
+- Customer database building
+- Easy 2-step signup via QR code
+
+URL: https://www.storehub.com/my/loyalty
+
+### 9. StoreHub Engage (SMS Marketing & CRM)
+Automated customer engagement and marketing.
+
+**Key capabilities:**
+- Automated SMS campaigns
+- Cashback reminders
+- Birthday promotions
+- Win-back campaigns for inactive customers
+- Targeted promotions based on shopping behavior
+- No marketing expertise required—set up once and let it run
+
+URL: https://www.storehub.com/my/engage
+
+### 10. Beep Delivery (Online Ordering)
+Your own branded online ordering system with integrated logistics.
+
+**Key capabilities:**
+- Your own beepit.com website for online orders
+- Only 9% fees (vs 30-35% on GrabFood/Foodpanda)
+- 80% average gross profit margin
+- RM0 upfront cost
+- Delivery, takeaway, and self-pickup options
+- Integrated with StoreHub POS
+- Keep 100% of customer data
+
+URL: https://www.storehub.com/my/online-ordering
+
+### 11. Webstore (E-commerce for Retail)
+Branded online store that syncs with your physical inventory.
+
+**Key capabilities:**
+- Full e-commerce website
+- Real-time inventory sync between online and offline
+- Delivery and self-pickup options
+- Order status notifications via email
+- Integrated with StoreHub POS
+
+URL: https://www.storehub.com/my/webstore
+
+### 12. Marketplace Integration
+Connect your business with major e-commerce platforms.
+
+**Key capabilities:**
+- Sync with Shopee, Lazada, Shopify, Zalora
+- Real-time inventory sync
+- Manage all orders from one place
+- Eliminate manual tracking and errors
+
+URL: https://www.storehub.com/my/marketplace-integration
+
+### 13. Kitchen Display System (KDS)
+Digital order management for kitchen staff.
+
+**Key capabilities:**
+- Orders from POS, QR Order & Pay, and delivery apps sync instantly
+- Replace paper tickets with digital displays
+- Real-time order tracking
+- Reduce order errors
+- Number Calling System (NCS) to notify customers
+
+### 14. Food Delivery Integration
+Connect with major food delivery marketplaces.
+
+**Integrated platforms:**
+- GrabFood
+- Foodpanda
+- ShopeeFood
+
+**Benefits:**
+- Orders go directly to POS and kitchen
+- No double entry required
+- Unified order management
+- Set different prices per platform
+
+## Pricing
+
+### Malaysia
+- **Software:** Starting from RM122/month (RM1,290/year billed annually)
+- **Hardware:** Starting from RM1,450 (one-time payment to own)
+  - StoreHub Android D3 Pro: RM1,690
+  - StoreHub Android Falcon1: RM1,890
+  - StoreHub Android Swan 1 Pro: RM2,190
+- **Hardware discount:** 55% off, starting from RM885
+- **Multi-year savings:** Pay for 10 months, get 14 months total (4 months free)
+
+**What's included (no hidden fees):**
+- Unlimited employee management
+- Advanced inventory
+- All integrations
+- QR Order & Pay (FREE on all plans)
+
+### Philippines
+- BIR-accredited POS system
+- BIR registration service: ₱1,000
+- QR Ph integration for all major e-wallets (GCash, Maya, GrabPay) and bank apps
+
+### Thailand
+- KBank e-wallet integration
+
+## Integrations
+
+### Accounting Software
+- QuickBooks
+- Xero
+- Financio
+- SQL Accounting
+- AutoCount
+
+### Payment Methods
+**Malaysia:**
+- Touch 'n Go
+- Boost
+- GrabPay
+- Maybank QRPay
+- MOLPay (Razer Pay, AliPay, WeChat Pay)
+
+**Philippines:**
+- QR Ph (GCash, Maya, GrabPay, BPI, UnionBank, and 40+ banks)
+
+**Thailand:**
+- KBank
+
+### Delivery Platforms
+- GrabFood
+- Foodpanda
+- ShopeeFood
+- Beep Delivery (StoreHub's own platform)
+
+### E-commerce Platforms
+- Shopee
+- Lazada
+- Shopify
+- Zalora
+
+## What Makes StoreHub Different
+
+### 1. Truly All-in-One
+Unlike competitors that require multiple systems, add-ons, and integrations, StoreHub includes everything in one platform: POS, inventory, employee management, loyalty, CRM, online ordering, QR ordering, e-invoicing, and more. No juggling between systems.
+
+### 2. No Hidden Fees
+Many POS providers advertise low prices but charge extra for essential features. StoreHub's pricing includes employee management, advanced inventory, integrations, and QR Order & Pay on all plans.
+
+### 3. Built for Southeast Asia
+StoreHub is designed specifically for businesses in Malaysia, Philippines, and Thailand:
+- LHDN e-invoice compliance (Malaysia)
+- BIR-accredited (Philippines)
+- Local payment integrations (Touch 'n Go, GCash, Maya, GrabPay)
+- Local food delivery integrations (GrabFood, Foodpanda, ShopeeFood)
+- Local language support
+
+### 4. Easy to Learn
+Staff can learn StoreHub in 10-15 minutes. The interface is intuitive and requires no IT knowledge.
+
+### 5. Works Offline
+Sales continue even when internet goes down. Data syncs automatically when connection returns.
+
+### 6. Enterprise-Grade Security
+Bank-level security for businesses of all sizes.
+
+### 7. Scalable
+From your first store to your first chain—StoreHub grows with your business. Same system whether you have 1 outlet or 200.
+
+### 8. Proven Track Record
+- 18,000+ businesses trust StoreHub
+- 4.7-star rating from 2,200+ Google reviews
+- Operating since 2013
+- Trusted by major brands
+
+## Trusted By Major Brands
+
+StoreHub serves businesses of all sizes, from small independent cafes to major chains:
+- De.Wan 1958 by Chef Wan
+- Big Apple Donuts & Coffee
+- Kamdar
+- Grub
+- 3CE Stylenanda
+- 5Luxe Scents Co.
+- Sugar & I
+- Impulse
+- Bulan Bintang
+
+## Customer Testimonials
+
+"Onboarding with StoreHub is pretty easy, you don't need to know IT or be very savvy to use it." — Jo, Admin Manager, The Bike Artisans
+
+"The system is very straightforward and it's very easy to teach people. I think StoreHub has taken into account all those intuitions required." — Danial, Co-Founder, Coffeeboy Club
+
+"I like doing business with people who are solution-focused and that's what StoreHub's customer service is." — Mervin, Owner, Undisclosed Location
+
+"With QR Order & Pay, customers can take their sweet time ordering from the table. It really eases the queue and saves our manpower." — Lovey & Rainey, Directors, Binq Dessert
+
+"Different outlets have different peak hours, and if you're not there, you wouldn't know. With StoreHub, I can track sales and stock in real time, from anywhere." — StoreHub Customer
+
+"We've worked with StoreHub since 2016 and it's been a great system for our POS. Our two stores are connected, so we can check each other's stock, know what to order or clear." — StoreHub Customer
+
+"With StoreHub Cashback, customers get instant rewards. Whatever they earn from one purchase can be redeemed at any branch next time, automatically recorded in the system." — K'Fora
+
+"After using StoreHub, it's easier for us to get more customers. We can easily collect customer data, set up cashback, and notify customers about their rewards, all within one system." — StoreHub Customer
+
+"Before StoreHub, managing inventory was so hard we even considered hiring another staff. Now, daily reports make tracking and planning stock across all branches quick and easy." — Jona Lee, Owner & Co-Founder, Happilee Korean Kitchen
+
+## Markets Served
+
+### Malaysia
+- Full product suite available
+- LHDN e-invoice compliance
+- Touch 'n Go, Boost, GrabPay, Maybank QRPay integrations
+- GrabFood, Foodpanda, ShopeeFood integrations
+- All 13 states and 3 federal territories supported
+URL: https://www.storehub.com/my/
+
+### Philippines
+- Full product suite available
+- BIR-accredited POS system
+- QR Ph integration (GCash, Maya, GrabPay, 40+ banks)
+- GrabFood, Foodpanda integration
+- NCR and nationwide support
+URL: https://www.storehub.com/ph/
+
+### Thailand
+- Full product suite available
+- KBank e-wallet integration
+URL: https://www.storehub.com/th/th/
+
+## Getting Started
+
+### Free Demo
+Schedule a 30-minute call with the Sales team for a personalized demo tailored to your business type.
+
+### Onboarding Support
+For customers in Philippines NCR, StoreHub team will:
+- Come to your store
+- Set up all hardware
+- Train your entire team
+
+
+## Key URLs
+
+- Homepage: https://www.storehub.com/
+- Malaysia: https://www.storehub.com/my/
+- Philippines: https://www.storehub.com/ph/
+- Thailand: https://www.storehub.com/th/th/
+- Pricing: https://www.storehub.com/my/pricing
+- About Us: https://www.storehub.com/my/about-us
+- Blog: https://www.storehub.com/my/blog
+- Knowledgebase: https://care.storehub.com/en/
+- Contact: https://www.storehub.com/my/contact
+- Request Demo: https://www.storehub.com/my/request-a-demo
+
+## Social Media
+
+- Facebook: https://www.facebook.com/StoreHub
+- LinkedIn: https://www.linkedin.com/company/storehub/
+- Instagram: https://instagram.com/storehubpos
+- TikTok: https://www.tiktok.com/@storehub
+
+
+## Frequently Asked Questions
+
+### Is StoreHub easy for staff to learn?
+Yes. Staff can learn to use StoreHub in 10-15 minutes. No IT knowledge required.
+
+### What happens if internet goes down?
+StoreHub works offline. You can continue selling, and data syncs automatically when connection returns.
+
+### Is StoreHub compliant with LHDN e-invoicing?
+Yes. StoreHub is fully compliant with Malaysia's LHDN e-invoice requirements with automatic submission.
+
+### Is StoreHub BIR-accredited in Philippines?
+Yes. StoreHub is BIR-accredited and can help register your POS system with BIR for ₱1,000.
+
+### How does StoreHub compare to competitors?
+StoreHub is truly all-in-one with no hidden fees. Competitors often charge extra for features like employee management, advanced inventory, QR ordering, and integrations that StoreHub includes on all plans.
+
+### Can StoreHub grow with my business?
+Yes. StoreHub scales from 1 outlet to 200+. Same system, same dashboard, whether you're starting out or expanding.
+
+### What payment methods does StoreHub accept?
+StoreHub accepts cash, credit/debit cards, and all major e-wallets including Touch 'n Go, Boost, GrabPay, GCash, Maya, and more.
+
+### Does StoreHub integrate with food delivery apps?
+Yes. StoreHub integrates with GrabFood, Foodpanda, and ShopeeFood. Orders go directly to your POS and kitchen.
+
+### How much does StoreHub cost?
+Software starts from RM122/month in Malaysia. Hardware starts from RM1,450 (or RM885 with 55% discount). No hidden fees.

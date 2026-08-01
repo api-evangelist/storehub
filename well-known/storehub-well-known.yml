@@ -1,0 +1,22 @@
+generated: '2026-07-21'
+method: searched
+source: live probes of https://storehub.com/.well-known/*
+host: https://storehub.com
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+notes: >-
+  No /.well-known discovery documents are published on storehub.com (all probed
+  paths return 404). A verbatim /llms.txt IS published at the site root and is
+  captured under llms/storehub-llms.txt. Recorded here as an honest negative
+  result; no WellKnown catalog pointer is wired because no catalog exists.

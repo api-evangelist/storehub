@@ -1,7 +1,17 @@
 aid: storehub
-name: Storehub
-description: Storehub is a company surfaced as a portfolio company of 500-global and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+name: StoreHub
+description: >-
+  StoreHub is Southeast Asia's leading all-in-one cloud-based point-of-sale (POS)
+  and business-management platform. Founded in 2013 and headquartered in Malaysia,
+  it powers over 18,000 restaurants, retailers, and service-based businesses across
+  Malaysia, the Philippines, and Thailand. The platform bundles POS, inventory
+  management, multi-location management, employee management, reporting and
+  analytics, QR Order & Pay, e-invoicing (LHDN/BIR compliant), loyalty and
+  cashback, SMS marketing (Engage), Beep Delivery online ordering, a branded
+  webstore, and marketplace and food-delivery integrations. StoreHub exposes a
+  private, partner-gated REST API for custom integrations (dedicated API access is
+  an Enterprise-tier feature); credentials are issued by Customer Care on request
+  and there is no public OpenAPI specification or self-serve developer portal.
 url: https://raw.githubusercontent.com/api-evangelist/storehub/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +19,33 @@ x-backed-by:
 - 500-global
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: self-serve
+  trial: false
+  try_now: false
+  public: false
+  label: Self-serve signup
+  confidence: medium
+  source:
+  - authentication
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
+image: https://framerusercontent.com/images/inCzE8S5A4pU0LnQwXwR2NnU3I4.png
 tags:
 - Company
+- Point of Sale
+- Retail
+- Restaurant
+- Inventory Management
+- Payments
+- E-commerce
+- Loyalty
+- Southeast Asia
+- Small Business
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +55,30 @@ maintainers:
 common:
 - type: Website
   url: https://storehub.com
+- type: Documentation
+  url: https://care.storehub.com/en/
+- type: Support
+  url: https://www.storehub.com/my/contact
+- type: Pricing
+  url: https://www.storehub.com/my/pricing
+- type: Blog
+  url: https://www.storehub.com/my/blog
+- type: SignUp
+  url: https://www.storehub.com/my/request-a-demo
+- type: Login
+  url: https://redirect.storehubhq.com/
+- type: TermsOfService
+  url: https://www.storehub.com/my/terms-conditions
+- type: PrivacyPolicy
+  url: https://www.storehub.com/my/privacy-policy
+- type: Authentication
+  url: authentication/storehub-authentication.yml
+- type: DomainSecurity
+  url: security/storehub-domain-security.yml
+- type: LLMsTxt
+  url: llms/storehub-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 4
+  pass: local-v1
